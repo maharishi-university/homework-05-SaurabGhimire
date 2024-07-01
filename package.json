@@ -1,0 +1,24 @@
+{
+  "name": "homework-05-saurabghimire",
+  "version": "1.0.0",
+  "description": "Implement the code for `Meditation` class to be used as follows: ```typescript const morning_meditation = new Meditation(5); morning_meditation.start(); console.log(`Start meditation`);",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx watch app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maharishi-university/homework-05-SaurabGhimire.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maharishi-university/homework-05-SaurabGhimire/issues"
+  },
+  "homepage": "https://github.com/maharishi-university/homework-05-SaurabGhimire#readme",
+  "dependencies": {
+    "@types/node": "^20.14.9",
+    "tsx": "^4.16.0"
+  }
+}
